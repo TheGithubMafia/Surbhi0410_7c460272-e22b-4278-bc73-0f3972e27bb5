@@ -1,6 +1,4 @@
-# From Aakash Jadhav
-# Do the same whatever I am doing here!
-# Extrinsically Yours!
+# From Surbhi Chauhan
 
 import os
 import glob
